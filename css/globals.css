@@ -86,3 +86,7 @@ h4 #computer {
   border: 3px solid #303841;
   transition: 0.2s;
 }
+
+.computer {
+  height: 2em;
+}
